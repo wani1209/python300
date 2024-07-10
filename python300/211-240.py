@@ -117,10 +117,10 @@ def my_print (a, b) :
 my_print(b=100, a=200)                              #왼쪽: 200\n오른쪽: 100
 
 #231        지역변수 전역변수
-def n_plus_1 (n) :
-   result = n + 1
-n_plus_1(3)
-print (result)                                        #오류 발생
+#def n_plus_1 (n) :
+#   result = n + 1
+#n_plus_1(3)
+#print (result)                                        #오류 발생
 
 #232
 def make_url(s):
