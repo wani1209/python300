@@ -89,7 +89,7 @@ class Human:
 areum = Human("아름", 25, "여자")
 print(areum.age)
 
-#257
+#257    인스턴스 메소드
 class Human:
     def __init__(self, name, age, sex):
         self.name = name
